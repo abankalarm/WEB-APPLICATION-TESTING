@@ -1,0 +1,18 @@
+Using the advanced “site:” search operator, it is possible to restrict
+search results to a specific domain [2]. Do not limit testing to just
+one search engine provider as they may generate different results
+depending on when they crawled content and their own algorithms.
+Consider using the following search engines:
+• Baidu
+• binsearch.info
+• Bing
+• Duck Duck Go
+• ixquick/Startpage
+• Google
+• Shodan
+• PunkSpider
+
+PunkSpider is web application vulnerability search engine. It is of lit-
+tle use for a penetration tester doing manual work. However it can
+be useful as demonstration of easiness of finding vulnerabilities by
+script-kiddies.
